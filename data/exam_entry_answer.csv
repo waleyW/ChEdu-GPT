@@ -1,0 +1,48 @@
+entry,answer
+CHEM251_2023_Exam-1-a-1,(i) Only those with 6 identical ligands are
+CHEM251_2023_Exam-1-a-2,(i) There are many molecules with rotation axes but not all of them have a mirror plane
+CHEM251_2023_Exam-1-a-3,(i) The Walsh diagram plots the energy levels of the MOs vs the angle in triatomic molecules
+CHEM251_2023_Exam-1-a-4,(i) There are character tables for each point group not one for all
+CHEM251_2023_Exam-1-a-5,(i) The rmax for d orbitals is smaller than the rmax for (n + 1)s orbitals
+CHEM251_2023_Exam-1-a-6,(i) The radial part determines the size of the orbitals
+CHEM251_2023_Exam-1-b-1,3s > 3p– the maximum for 3s is further away as per probabilty distribution function but 3s filled first (penetration)
+CHEM251_2023_Exam-1-b-2,"4p > 3p but 3p filled first (shielding) – with higher n, the maxima are further away"
+CHEM251_2023_Exam-,"Rb > Sb > Na > Mg2+
+Rb in same shell as Sb and lower Zeff – larger
+both are larger than Na. Cations are smaller than the respective atoms and Mg is next to Na, so Mg2+ would be smaller "
+CHEM251_2023_Exam-,"2a: in a set of degenerate orbitals, electrons may not be spin-paired in an orbital until each orbital in the set contains one electron; electrons singly occupying orbitals in a degenerate set have parallel spins (same values of ms). State with spins parallel (S = 1, triplet state) are lower in energy than if antiparallel
+(S = 0, singlet state)."
+CHEM251_2023_Exam-,
+CHEM251_2023_Exam-,
+CHEM251_2023_Exam-1-e-1,34 e-
+CHEM251_2023_Exam-1-e-2,8n+2 group - folded-square
+CHEM251_2023_Exam-1-e-5,"Polar but not chiral
+Polar: No center of inversion, electric dipole moment not perpendicular to mirror planes"
+CHEM251_2023_Exam-,
+CHEM251_2023_Exam-2-a-1,6
+CHEM251_2023_Exam-2-a-2,2
+CHEM251_2023_Exam-2-a-3,one
+CHEM251_2023_Exam-2-a-4,fac
+CHEM251_2023_Exam-2-e-1,Trigonal bipyramidal and square pyramidal
+CHEM251_2023_Exam-2-e-2,These are the assumptions made for the crystal field theory approach. MO theory considers covalent bonding
+CHEM251_2023_Exam-2-e-3,Coordination is typically through the two oxygen atoms.
+CHEM251_2023_Exam-3-a-1,"The fluorescence spectrum of a molecule typically shows up at longer wavelengths than the absorption spectrum. This is called the Stokes Shift, and has its origin in the Franck-Condon Principle."
+CHEM251_2023_Exam-3-a-2,"In Atomic Absorption Spectroscopy intruments, the emission from a hollow cathode lamp comes from excited atoms in the gas phase."
+CHEM251_2023_Exam-3-a-3,The N2 vibrational frequency is observed at larger wavenumbers than the O2 vibrational frequency because the bond strength for N2 (triple bond) is larger than the bond strength for O2 (double bond).
+CHEM251_2023_Exam-3-a-4,A diffraction grating is a component in a spectrometer that disperses light according to wavelengths through the wavelength-dependent diffraction angles.
+CHEM251_2023_Exam-,
+CHEM251_2023_Exam-3-e-1,
+CHEM251_2023_Exam-3-e-2,"Yes, HCl should appear in the FTIR spectrum because the selection rules for IR absorption are that the molecule must have a dipole moment.  HCl has a large dipole moment, and so it should appear in the FTIR spectrum.  "
+CHEM251_2023_Exam-3-e-3,"Speed: FT-IR spectrometers detect all frequencies from the source simultaneously (i.e. from 400-4000 cm-1), hence a spectrum can be produced in a few seconds (c.f. 10-15 minutes for a dispersive instrument that scans the entire frequency range in a stepwise manner). This is called the Fellgett’s (multiplex) advantage.
+
+Throughput advantage: Jacquinot advantage. FT-IR spectrometers have few optical elements and no entry/exit slits. This means that the detector receives up to 50 % of the radiation from the source.
+
+Better sensitivity: Fast scans enable the recording and averaging of many scans, yielding spectra with a superior signal to noise (S/N) ratio.
+
+Wavelength accuracy: Connes advantage. FT-IR spectrometers usually have a He-Ne laser emitting light of 632.8 nm as an internal wavelength calibration source (FT-IR spectrometers are therefore self-calibrating). This ensures an accuracy of 0.01 cm-1 or better in the FT-IR spectrum. The interferogram from the visible laser oscillates much more quickly than anything in the IR region, thus is used as an internal clock to trigger the collection of IR interferogram data.
+
+Simpler design: A movable mirror is the only moving part in a FT-IR "
+CHEM251_2023_Exam-,
+CHEM251_2023_Exam-3-f-1,"Self absorption occurs at higher concentrations when the light that is emitted by an excited atom gets absorbed by the sample, instead of the light that’s coming from the light source. This makes the sample look less concentrated than it is."
+CHEM251_2023_Exam-3-f-2,"Atoms have discrete energy states, and the transitions that occur in atomic absorption and emission spectroscopies come from electrons being excited into higher lying states (atomic absorption) or decaying from excited states (atomic emission)."
+CHEM251_2023_Exam-3-f-3,"A species must have a bond (at least 2 atoms) to have a vibration.  An atom cannot vibrate all by itself, so there are no vibrational lines in atomic absorption and emission spectroscopies."

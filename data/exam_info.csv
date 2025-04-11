@@ -1,0 +1,101 @@
+Subject,Exam_Time,Classroom,Teacher,Notes
+Class4,2,L404,Dr. Lee,Independent Study
+Class6,4,F203,Dr. Taylor,Theoretical Framework
+Class3,3,N106,Dr. Chen,Requires Prior Knowledge
+Chem3,3,A101,Dr. Taylor,Research Oriented
+Class5,4,H306,Dr. Williams,Requires Prior Knowledge
+Class6,3,O407,Prof. Wilson,Independent Study
+Chem2,6,K302,Prof. Rodriguez,Elective Course
+Chem6,3,M205,Dr. Smith,Field Research
+Chem6,4,H306,Prof. Rodriguez,Requires Prior Knowledge
+Class9,5,E502,Prof. Wilson,Introductory Level
+Chem3,4,I405,Prof. Patel,Introductory Level
+Class5,4,H306,Dr. Garcia,Requires Prior Knowledge
+Class5,5,A101,Prof. Wilson,Field Research
+Class1,1,L404,Prof. Davis,Group Project Required
+Class7,4,L404,Dr. Miller,Seminar Based
+Class3,5,H306,Prof. Wilson,Seminar Based
+Chem4,1,K302,Dr. Smith,Elective Course
+Chem8,4,I405,Dr. Taylor,Group Project Required
+Chem3,4,O407,Dr. Miller,Lab Intensive
+Class3,5,J201,Dr. Martinez,Introductory Level
+Class5,3,J201,Prof. Davis,Practical Session
+Class3,3,L404,Dr. Smith,Independent Study
+Class7,5,F203,Dr. Lee,Introductory Level
+Class6,1,B205,Dr. Garcia,Seminar Based
+Chem1,1,A101,Dr. Martinez,Seminar Based
+Class1,3,H306,Dr. Lee,Core Curriculum
+Chem6,3,E502,Prof. Brown,Theoretical Framework
+Class4,5,N106,Dr. Chen,Comprehensive Exam
+Chem5,3,M205,Dr. Chen,Practical Session
+Class1,6,L404,Prof. Patel,Requires Prior Knowledge
+Class9,6,H306,Prof. Brown,Field Research
+Chem5,1,M205,Prof. Wilson,Introductory Level
+Chem7,5,J201,Prof. Patel,Advanced Course
+Chem7,3,I405,Prof. Brown,Comprehensive Exam
+Class3,4,M205,Dr. Lee,Field Research
+Class8,4,A101,Dr. Miller,Group Project Required
+Chem1,4,G104,Prof. Rodriguez,Independent Study
+Class3,1,D401,Dr. Smith,Group Project Required
+Class7,4,E502,Dr. Smith,Seminar Based
+Chem3,4,J201,Prof. Patel,Advanced Course
+Chem2,3,D401,Prof. Kim,Group Project Required
+Chem3,3,G104,Prof. Kim,Core Curriculum
+Class7,3,C302,Dr. Taylor,Advanced Course
+Chem2,1,H306,Prof. Wilson,Theoretical Framework
+Class3,6,K302,Dr. Williams,Introductory Level
+Class5,1,A101,Dr. Williams,Comprehensive Exam
+Class6,3,L404,Prof. Brown,Lab Intensive
+Chem5,2,M205,Prof. Wilson,Field Research
+Class6,5,H306,Dr. Miller,Practical Session
+Chem8,3,M205,Dr. Taylor,Seminar Based
+Chem2,5,F203,Dr. Lee,Comprehensive Exam
+Class3,5,J201,Prof. Wilson,Core Curriculum
+Class1,2,K302,Prof. Davis,Requires Prior Knowledge
+Class1,6,B205,Dr. Garcia,Lab Intensive
+Class4,2,D401,Dr. Martinez,Practical Session
+Class10,4,C302,Dr. Miller,Field Research
+Chem4,5,G104,Prof. Kim,Requires Prior Knowledge
+Class10,3,I405,Prof. Johnson,Comprehensive Exam
+Chem8,1,M205,Dr. Taylor,Elective Course
+Class4,5,H306,Prof. Davis,Elective Course
+Class10,6,K302,Dr. Taylor,Requires Prior Knowledge
+Chem3,5,N106,Dr. Garcia,Comprehensive Exam
+Chem1,2,L404,Prof. Kim,Seminar Based
+Class1,1,D401,Dr. Chen,Advanced Course
+Class7,1,G104,Prof. Davis,Lab Intensive
+Class7,5,G104,Prof. Johnson,Advanced Course
+Chem4,4,L404,Dr. Williams,Elective Course
+Chem5,3,N106,Dr. Martinez,Independent Study
+Class1,5,N106,Prof. Kim,Research Oriented
+Chem3,5,E502,Prof. Kim,Theoretical Framework
+Class10,5,I405,Dr. Chen,Research Oriented
+Class9,4,F203,Dr. Smith,Group Project Required
+Class2,4,K302,Prof. Davis,Lab Intensive
+Chem4,3,L404,Prof. Rodriguez,Advanced Course
+Class3,2,N106,Dr. Williams,Elective Course
+Class7,1,G104,Prof. Patel,Requires Prior Knowledge
+Chem2,3,L404,Dr. Williams,Core Curriculum
+Class6,3,A101,Prof. Patel,Comprehensive Exam
+Chem2,4,N106,Prof. Rodriguez,Practical Session
+Class5,5,N106,Dr. Miller,Introductory Level
+Chem5,2,L404,Dr. Garcia,Theoretical Framework
+Class4,6,F203,Dr. Taylor,Comprehensive Exam
+Chem2,5,M205,Prof. Brown,Research Oriented
+Chem1,3,A101,Dr. Martinez,Requires Prior Knowledge
+Class3,4,H306,Prof. Kim,Field Research
+Chem8,5,L404,Dr. Taylor,Practical Session
+Class6,5,M205,Dr. Taylor,Comprehensive Exam
+Chem3,3,H306,Dr. Chen,Theoretical Framework
+Class8,2,A101,Prof. Rodriguez,Practical Session
+Chem5,6,G104,Prof. Brown,Advanced Course
+Class7,5,J201,Prof. Kim,Core Curriculum
+Class6,1,H306,Dr. Lee,Practical Session
+Class9,1,G104,Prof. Rodriguez,Introductory Level
+Class9,6,L404,Dr. Taylor,Seminar Based
+Chem8,6,K302,Dr. Smith,Advanced Course
+Class7,5,L404,Dr. Miller,Group Project Required
+Class8,6,N106,Dr. Williams,Field Research
+Chem2,3,I405,Dr. Garcia,Research Oriented
+Class8,4,O407,Dr. Taylor,Practical Session
+Class8,6,J201,Dr. Lee,Independent Study

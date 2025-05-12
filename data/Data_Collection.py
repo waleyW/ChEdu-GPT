@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 import random
 
 # Load environment variables from .env file
-load_dotenv(r'/nesi/nobackup/uoa04081/wxy/model/GPT_api/api.env')
+load_dotenv(r'GPT_api/api.env')
 
 # Verify if the API key is loaded correctly
 api_key = os.getenv('OPENAI_API_KEY')

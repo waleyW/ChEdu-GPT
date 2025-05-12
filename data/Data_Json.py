@@ -109,7 +109,7 @@ def batch_process_files(input_dir, output_dir):
 
 # Set input and output directory paths
 input_directory = r"/Edu_GPT/Dataset/chemistry_educational_dialogs"  # Replace with your TXT files directory
-output_directory = "/Edu_GPT/Dataset/json/chemistry_educational_dialogs_0505.json"  # Replace with your desired output directory for JSON files
+output_directory = "/Edu_GPT/Dataset/json/chemistry_educational_dialogs.json"  # Replace with your desired output directory for JSON files
 
 # Execute batch processing
 batch_process_files(input_directory, output_directory)

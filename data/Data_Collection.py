@@ -190,7 +190,7 @@ def generate_diverse_datasets(output_directory, num_dialogs=300):
     print(f"Complete dataset saved to {json_path}")
 
 if __name__ == "__main__":
-    output_directory = r"Edu_GPT/Dataset/chemistry_educational_dialogs"
+    output_directory = r"./chemistry_educational_dialogs"
     
     # Generate 300 dialogs (adjust the number as needed)
     generate_diverse_datasets(output_directory, num_dialogs=300)

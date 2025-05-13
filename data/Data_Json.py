@@ -108,8 +108,8 @@ def batch_process_files(input_dir, output_dir):
     print(f"All data has been combined and saved to {combined_output_path} and {jsonl_output_path}")
 
 # Set input and output directory paths
-input_directory = r"/Edu_GPT/Dataset/chemistry_educational_dialogs"  # Replace with your TXT files directory
-output_directory = "/Edu_GPT/Dataset/json/chemistry_educational_dialogs.json"  # Replace with your desired output directory for JSON files
+input_directory = r"./chemistry_educational_dialogs"  # Replace with your TXT files directory
+output_directory = "./train_data/chemistry_educational_dialogs.json"  # Replace with your desired output directory for JSON files
 
 # Execute batch processing
 batch_process_files(input_directory, output_directory)
